@@ -15,5 +15,5 @@ Estudante de Tecnologia da Informação.
 
 ## Contato
 - E-mail: gr664826@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/gabriel-ribeiro-0556a9267/)
+- LinkedIn: https://www.linkedin.com/in/gabriel-ribeiro-0556a9267/
 - Instagram: https://www.instagram.com/gabriel.alm10

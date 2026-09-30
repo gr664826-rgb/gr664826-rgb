@@ -3,7 +3,7 @@
 Estudante de Tecnologia da Informação.
 
 ## Formação
-- Cursando Técnico em Informática — [Senac - Guaratinguetá]
+- Cursando Técnico em Informática — Senac - Guaratinguetá
 
 ## Habilidades
 - **Linguagens:** Python

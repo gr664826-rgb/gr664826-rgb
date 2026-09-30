@@ -1,16 +1,18 @@
-## Hi there 👋
+# Gabriel Ribeiro Almeida
 
-<!--
-**gr664826-rgb/gr664826-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação.
 
-Here are some ideas to get you started:
+## Formação
+- Cursando Técnico em Informática — [Senac - Guaratinguetá]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Linguagens:** Python
+- **Sistemas:** Linux
+- **Ferramentas:** Git, Obsidian
+
+## Projetos
+- [Notas de TI](https://github.com/gr664826-rgb/notas-ti) — Anotações de estudo sobre hardware, sistemas operacionais e programação em Python
+
+## Contato
+- E-mail: gr664826@gmail.com
+- LinkedIn: in/gabriel-ribeiro-0556a9267
